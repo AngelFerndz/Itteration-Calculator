@@ -12,7 +12,7 @@ print()
 
 value = initialValue    
     
-for i in range(iterations):
+for _ in range(iterations):
     if(process == "sum"):
         value += change
     
